@@ -9,3 +9,6 @@
 
 ## [Speller](https://github.com/docafavarato/cs50-harvard/tree/main/SPELLER)
 > Implement a program that spell-checks a file using a hash table.
+
+## [Substitution](https://github.com/docafavarato/cs50-harvard/tree/main/SUBSTITUTION)
+> Write a program that implements a substitution cipher.
