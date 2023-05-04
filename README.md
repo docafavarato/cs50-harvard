@@ -12,3 +12,6 @@
 
 ## [Substitution](https://github.com/docafavarato/cs50-harvard/tree/main/SUBSTITUTION)
 > Write a program that implements a substitution cipher.
+
+## [Inheritance](https://github.com/docafavarato/cs50-harvard/tree/main/INHERITANCE)
+> Simulate the inheritance of blood types for each member of a family.
