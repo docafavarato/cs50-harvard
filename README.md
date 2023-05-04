@@ -18,3 +18,6 @@
 
 ## [World Cup](https://github.com/docafavarato/cs50-harvard/tree/main/WORLD-CUP)
 > Write a program to run simulations of the FIFA World Cup.
+
+## [Runoff](https://github.com/docafavarato/cs50-harvard/tree/main/RUNOFF)
+> Implement a program that runs a runoff election.
