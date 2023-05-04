@@ -15,3 +15,6 @@
 
 ## [Inheritance](https://github.com/docafavarato/cs50-harvard/tree/main/INHERITANCE)
 > Simulate the inheritance of blood types for each member of a family.
+
+## [World Cup](https://github.com/docafavarato/cs50-harvard/tree/main/WORLD-CUP)
+> Write a program to run simulations of the FIFA World Cup.
