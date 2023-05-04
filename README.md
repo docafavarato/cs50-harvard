@@ -6,3 +6,6 @@
 
 ## [DNA](https://github.com/docafavarato/cs50-harvard/tree/main/DNA)
 > Implement a program that identifies a person based on their DNA, per the below.
+
+## [Speller](https://github.com/docafavarato/cs50-harvard/tree/main/SPELLER)
+> Implement a program that spell-checks a file using a hash table.
